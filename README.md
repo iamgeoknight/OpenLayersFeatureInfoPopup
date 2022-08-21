@@ -1,5 +1,5 @@
 # Feature_Information_Openlayers
-Dynamic Measurement in OpenLayers with labels that follows changing geometry
+Feature_Information_Openlayers
 
 ![Feature Infromation](feature_information_openlayers.gif)
 
